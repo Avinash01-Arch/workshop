@@ -4,7 +4,7 @@
 #### heading4
 ##### heading5
 
-#text styles
+# text styles
 ## Italic Text
 ***Computer Science Engineering Student***
 
@@ -19,10 +19,10 @@
 *Data here*
 **Data**
 # Link ReadMe File
-<a href="">Click Me</a>
-[Click Me]("www.google.com/")
+[Click Me](https://www.google.com/)
 
-[Google]("www.google.com")
+[Google](https://www.google.com/)
 
-#Img in Readme File
+# Img in Readme File
+
 ![Sasauke](3541347.jpg)
